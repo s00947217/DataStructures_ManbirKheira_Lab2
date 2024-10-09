@@ -4,7 +4,7 @@ import java.util.Stack;
 import java.util.Iterator;
 
 // Lab 2 - Lists, Stacks, and Queues
-// Your Name: Manbir Kheira
+// Your Name: Manbir S Kheira 
 // Notes: The instructions are found in comments through the code starting with "Step n"
 //        Please leave the comments and add your code just after the comment.
 //        Use the examples in the book to complete the lab.
